@@ -1,3 +1,3 @@
 class BirdSerializer < ActiveModel::Serializer
-  attributes :id, :name, :description, :image_ur, :adventure_id
+  attributes :id, :name, :description, :image_url, :adventure_id
 end
